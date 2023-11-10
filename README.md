@@ -1,2 +1,3 @@
 # visualization-dashboard
 this my dashboard which shows the presentation of labor force data obtained from the 2022 RWANDAN census
+ my dashboard visualize the information about the Rwandan labor force in the census carried down in 2022. It contains data structures of some data used, summary of data used, the visualization of labor force , the visualization of employment status, the visualization of economic activities and the visualization of working age and education status. It also facilitate the user to down the data used. If you use my dashboard you will have  a full information about the census on labor force.
